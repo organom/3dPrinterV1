@@ -18,6 +18,7 @@ Machinery:
 Lessons learned:
 	- Use 6mm instead of 5mm  -- follow the design at all cost
 	- Plan, plan, plan and then do
+	- It will take much more time than planned
 	- First make it work following the design and then iterate to make it better (I wanted to have 2 fans but still keep the auto-z leveling, ended up with a mixture of different design that didn't work... need much more experience before trying to make things "my way")
 	- There will be always more cables then initially expected
 	- Mdf is cheap but not very stable - printbed base bended like hell (worse than iphone)
