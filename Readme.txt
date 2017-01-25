@@ -1,6 +1,9 @@
 First try to build a 3dPrinter - based on Ulticampy v2
 done as an introduction to 3d printing and to the maker world... should have started by something easier ;)
 
+   UPDATE: Starting now with iteration 2 -> https://github.com/organom/3dPrinterV2 . There I'll be posting the full progress, from materials used to day to day basis. This rep is only for historical reason and own reference.
+
+
 Materials: 
 	- mdf 5mm (no 6mm was available in the store)
 	- mdf 10mm for the printbed base
@@ -26,5 +29,3 @@ Lessons learned:
 	- Mdf is cheap but not very stable - printbed base bended like hell
 	- 3d printed parts tend to break, print them stronger next time
 	- Get more material than needed, specially screws
-	
-UPDATE: Starting now with iteration 2 -> https://github.com/organom/3dPrinterV2 . There I'll be posting the full progress, from materials used to day to day basis. This rep is only for historical reason and own reference.
