@@ -3,7 +3,7 @@ done as an introduction to 3d printing and to the maker world... should have sta
 
 Materials: 
 	- mdf 5mm (no 6mm was available in the store)
-	- mdf 8mm for the printbed base
+	- mdf 10mm for the printbed base
 	- cork for protecting the printbed base
 	- lots of screws
 	- filament for the 3dprinters
@@ -27,5 +27,4 @@ Lessons learned:
 	- 3d printed parts tend to break, print them stronger next time
 	- Get more material than needed, specially screws
 	
-Starting now with iteration 2 -> https://github.com/organom/3dPrinterV2   
-There I'll be posting the full progress, from materials used to day to day basis. This rep is only for historical reason and own reference.
+UPDATE: Starting now with iteration 2 -> https://github.com/organom/3dPrinterV2 . There I'll be posting the full progress, from materials used to day to day basis. This rep is only for historical reason and own reference.
