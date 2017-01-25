@@ -1,5 +1,5 @@
-My version of the Ulticampy v2
-as an introduction to 3d printing and to the maker world... should have started by something easier ;)
+First try to build a 3dPrinter - based on Ulticampy v2
+done as an introduction to 3d printing and to the maker world... should have started by something easier ;)
 
 Materials: 
 	- mdf 5mm (no 6mm was available in the store)
