@@ -27,3 +27,5 @@ Lessons learned:
 	- 3d printed parts tend to break, print them stronger next time
 	- Get more material than needed, specially screws
 	
+Starting now with iteration 2 -> https://github.com/organom/3dPrinterV2   
+There I'll be posting the full progress, from materials used to day to day basis. This rep is only for historical reason and own reference.
